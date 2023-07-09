@@ -5,7 +5,7 @@ Random Teleport ("/rtp") allows a user to teleport to a random location in Minet
 This mod is primarily intended for use on multiplayer servers.
 Players can use the command to teleport away from the spawn area and find a place to build.
 
-Version: 1.0.2
+Version: 2.0.0
 License: GNU Affero General Public License version 3 (AGPLv3)
 Dependencies: none
 
